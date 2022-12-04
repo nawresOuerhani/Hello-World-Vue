@@ -1,4 +1,5 @@
- "variants": [
+{ 
+"variants": [
  {
    "id": 2001,
    "color": "red",
@@ -18,3 +19,4 @@
    "quantity": 0,
   }
  ]
+}
